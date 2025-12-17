@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @yaoy908
-- 👀 I’m interested in cv, cnn, cuda.
-- 🌱 I’m currently learning machine learning.
+
 
 <!---
 yaoy908/yaoy908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
